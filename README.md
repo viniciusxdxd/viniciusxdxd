@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius Ferreira!👋 E estou iniciando no mundo da programação! 😎
+### Olá! Eu sou o Vinicius Ferreira! 🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusxdxd&show_icons=true&theme=github_dark) 
 
