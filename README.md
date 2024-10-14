@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Sou Vinicius Ferreira<br>- QA Analyst<br>- Graduando em Ciência da Computação, 8° Semestre<br>- Apaixonado pela tecnologia</p>
+<p align="left">- Sou Vinicius Ferreira<br>- QA Analyst<br>- Graduando em Ciência da Computação, 8° Semestre<br>- Apaixonado pela tecnologia</p> - Atualmente estudando AWS</p>
 
 ###
 
